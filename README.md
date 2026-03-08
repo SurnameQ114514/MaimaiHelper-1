@@ -21,6 +21,9 @@
 ## 🎈 开源
 项目采用 GNU Affero General Public License v3.0 开源。  
 更多信息请参阅 [LICENSE](LICENSE) 文件了解详情。
+
+##修改者Sumeru的话
+由于我用的是圆屏手表没法扫码，又因为稍微会一点安卓所以就改了一下，开源出来以便其他人使用。
 ```
 Simplify your daily routine with QR codes on wearables. Scan and go MAIMAI!
 Copyright (C) 2025  Cdm2883
